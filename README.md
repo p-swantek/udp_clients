@@ -16,6 +16,9 @@ UDP clients written in both java and python that will allow for pinging of a ser
 ### To run the Python client, pass in similar arguments as the Java client:
 > $python PingClient.py localhost 2000
 
+### Server output:
+![server output](img/server_output.png)
+
 
 
 
