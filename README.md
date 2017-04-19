@@ -19,6 +19,9 @@ UDP clients written in both java and python that will allow for pinging of a ser
 ### Server output:
 ![server](./img/server_output.PNG)
 
+### Client output (for both Java/Python clients):
+![client](./img/client_output.PNG)
+
 
 
 
